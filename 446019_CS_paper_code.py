@@ -23,6 +23,7 @@ pd.options.mode.chained_assignment = None
 random.seed(251121)
 np.random.seed(16111967)
 
+# This is an added comment to test working with Github on 24-05-2022
 
 #open on laptop
 # with open('C:/Users/marti/Google Drive/MSc Business Analytics & Quantitative Marketing/2 - Computer Science for Business Analytics/TVs-all-merged.json') as f:
